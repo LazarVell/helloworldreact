@@ -6,6 +6,8 @@ You can see the live version at : https://lazarvell.github.io/helloworldreact/
 
 the live deployment of the page was done using gh-pages, with the help of a guide posted here : https://github.com/gitname/react-gh-pages
 
+For the sake of space, node modules folder was not updated, and the build is present in the gh-pages branch.
+
 In adition to creating the simple "Hello World!", we did the following:
 
   Edited the package.json to add a homepage, as well as predeploy and deploy scripts to be run in order to deploy the page and have live access.
